@@ -18,6 +18,7 @@
 ## Software / Control Systems
 <!-- Software-only inventions or standalone control algorithms -->
 
----
+## Mountain Sports / Camping Equipment
+<!-- Software-only inventions or standalone control algorithms -->
 
 *Update this file whenever a new invention is added to the repository.*
